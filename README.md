@@ -12,5 +12,5 @@ responsible for any lost Eth or unattended side effects!  I do not plan to deplo
 *  validations/input security
 *  test cases
 *  migrations
-
+*  build frontend
 
