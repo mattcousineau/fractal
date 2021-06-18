@@ -11,5 +11,6 @@ responsible for any lost Eth or unattended side effects!  I do not plan to deplo
 *  implement simple consensus voting algorithm  and data structures
 *  validations/input security
 *  test cases
+*  migrations
 
 
