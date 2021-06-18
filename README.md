@@ -6,10 +6,10 @@ This dApp is being built by someone who has a tenuous grasp on Solidity security
 responsible for any lost Eth or unattended side effects!  I do not plan to deploy or use this on mainnet.  
 
 # todo
-create donation pool
-add basic data types
-implement simple consensus voting algorithm  and data structures
-validations/input security
-test cases
+*  create donation pool
+*  add basic data types
+*  implement simple consensus voting algorithm  and data structures
+*  validations/input security
+*  test cases
 
 
