@@ -3,7 +3,7 @@ An Ethereum dApp built with truffle that provides a simple interface to donate t
 
 # caution
 This dApp is being built by someone who has a tenuous grasp on Solidity security at best.  The author is using this as a method of self-teaching, and is not 
-responsible for any lost Eth or unattended side effects!  I do not plan to deploy or use this on mainnet.  
+responsible for any lost Eth or unattended side effects!  That being said, feel free to use anything you find useful, althought it probably is not novel and will be implemented better in other projects.  
 
 # todo
 *  create donation pool
